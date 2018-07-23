@@ -1,0 +1,85 @@
+#subtitle {
+  background-color: #343a40;
+  color: gray;
+  font-size: .9em;
+  padding-left: 18px;
+  margin-top: -20px;
+}
+
+.navbar-nav {
+  padding-left: 90px;
+}
+
+.main-card-body {
+  padding-left: 20px;
+  padding-top: 10px;
+}
+
+.card {
+  box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 5px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-left: 15px;
+  margin-bottom: 15px;
+}
+
+.main-element-col {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.main-value {
+  padding-left: 10px;
+  padding-right: 0px;
+  padding-bottom: 5px;
+}
+
+.remove-element-col {
+  padding-left: 5px;
+}
+
+.remove-card-col {
+  padding-left: 5px;
+}
+
+.card-header {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.title-col{
+  padding-right: 0px;
+  padding-left: 0px;
+}
+
+.main-add-element {
+  padding-top: 5px;
+  padding-left: 0px;
+}
+
+.groupWrap {
+  padding-left: 15px;
+}
+
+.newCardWrap {
+  padding-top: 10px;
+  padding-left: 15px;  
+}
+
+.newGroupWrap {
+  padding-top: 10px;
+  padding-left: 15px;  
+}
+
+.description {
+  padding-top: 15px;
+  padding-bottom: 10px;
+  font-style: oblique;
+  font-size: 1.5em;
+}
+
+body {
+  background-color: #888844;
+}
+
+.newCard, .newGroup {
+  box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 5px 20px 0 rgba(0, 0, 0, 0.19);
+}
